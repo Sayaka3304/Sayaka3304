@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Sayaka3304
-- 👀 I’m interested in Data Sience
-- 🌱 I’m currently learning data analytics at University of North Carolina at Wilmington.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am a "Certified Zentangle Teacher"
+- 👀 I’m interested in Data Sience.
+- 🌱 I’m currently learning business analytics at University of North Carolina at Wilmington.
+- 📫 How to reach me... by e-mail
+
+- ⚡ Fun fact: I am a "Certified Zentangle Teacher", teaching meditative drawing. 
 
 <!---
 Sayaka3304/Sayaka3304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
